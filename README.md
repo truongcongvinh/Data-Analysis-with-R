@@ -1,2 +1,2 @@
-# Data-Analysis-with-R
-EMPLOYEE CHURN
+# EMPLOYEE CHURN
+Employee churn significantly impacts productivity and incurs high replacement costs. Studies show replacing an employee can cost around 21.4% of their annual wage. Predictive models, like those used by Hewlett-Packard, can save millions by identifying and retaining at-risk employees. This project aims to develop such models to help organizations reduce churn costs and retain valuable staff.
